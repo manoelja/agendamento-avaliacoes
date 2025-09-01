@@ -1,4 +1,4 @@
-import { Clock } from "lucide-react";
+dddddddimport { Clock } from "lucide-react";
 import { MagicLinkForm } from "../_components/magic-link-form";
 
 export default function MagicLinkPage() {
